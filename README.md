@@ -1,7 +1,9 @@
 <p align="left"><samp>「</samp></p><p align="center">
     <samp>
+        <b>
 I'am a smart person<br>
 I just do stupid thing
+        </b>
     </samp>
     <br>
 </p><p align="right"><samp>」</samp></p>
