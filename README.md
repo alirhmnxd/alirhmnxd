@@ -5,8 +5,13 @@ I just do stupid thing
     </samp>
     <br>
 </p><p align="right"><samp>」</samp></p>
-<p align="right">
+<p align="left">
 <a href="https://github.com/alirhmnxd">
-  <img src="/assets/header.jpg">
+  <img src="assets/header.jpg">
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/alirhmnxd">
+  <img src="github-metrics.svg">
 </a>
 </p>
