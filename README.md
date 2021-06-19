@@ -12,4 +12,4 @@ I just do stupid thing
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 🔭 I’m currently working on my Portfolio Website
 - 💬 Ask me about anything :smile:
-- 📫 How to reach me : [:email:](mailto://alirhmnxd@pm.me)
+- 📫 How to reach me : [:email:](mailto:alirhmnxd@pm.me)
