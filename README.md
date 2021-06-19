@@ -5,6 +5,7 @@ I just do stupid thing
     </samp>
     <br>
 </p><p align="right"><samp>」</samp></p>
+<img width="20%" align="right" alt="Github" src="/assets/output.gif" />
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning `Web Development` and `C++`
